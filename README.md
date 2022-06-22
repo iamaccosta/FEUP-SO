@@ -6,7 +6,7 @@ Repository for educational purpose only.
 - <b>Year:</b> 2nd Semester of 2nd Year
 - <b>My Grade:</b> 
 
-# SO project
+## SO project
 - [Project](project/docs/Enunciado.pdf) 
 - <b>Project Grade:</b>
 
