@@ -8,6 +8,7 @@ Repository for educational purpose only.
 
 # SO project
 - [Project](project/docs/Enunciado.pdf) 
+- <b>Project Grade:</b>
 
 > Done by the students:
 > - André Costa up201905916
