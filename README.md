@@ -4,7 +4,7 @@ Repository for educational purpose only.
 ## Unit Info
 - <b>Name:</b> Sistemas Operativos
 - <b>Year:</b> 2nd Semester of 2nd Year
-- <b>My Grade:</b> 
+- <b>My Grade:</b> 15 
 
 ## SO project
 - [Project](project/docs/Enunciado.pdf) 
